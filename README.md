@@ -2,7 +2,7 @@
 
 ## Hi, Welcome to my profile!.👋
 <p >
-  <a href="https://github.com/MinaMoazami"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=I+am+Mina+Moazami;I+am+a+Data+Analyst;"></a>
+  <a href="https://github.com/MinaMoazami"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=I+am+Mina+Moazami;I+am+a+Data+Analyst;And+Business+Intelligence+Developer;"></a>
 </p>
 
 ## About Me
